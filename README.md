@@ -1,2 +1,5 @@
-# Hack-Template
-This is a simple template that saves a lot of time when doing internal hacks, includes: D3D9 hooking, keyboard hooks, hook console and some more.
+## What is this?
+This is a hack template coded in C++ that will help you make internal hacks(or really any code that reads/writes to a process).
+
+## Code Example/Documentation
+Main.cpp should already be a good starting point, also the code isn't that big so you probably can use all it provides within 10 minutes of reading it.
